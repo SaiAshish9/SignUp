@@ -53,8 +53,3 @@ app.post("/failure",function(req,res){
 app.listen(process.env.PORT||3000,function(req,res){
   console.log("server started!");
 });
-//d34e579dc1bcac0ed51adb56571d04d6-us20
-//5a4c73b342
-//'https://usX.api.mailchimp.com/3.0/lists'
-//https://us20.admin.mailchimp.com/lists/members/add?id=55417
-//0461a05c16
